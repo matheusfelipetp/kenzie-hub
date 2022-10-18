@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# 🖥️ Kenzie Hub
+Projeto com objetivo de criar uma aplicação, onde o usuário pudesse realizar o seu cadastro e logar na sua conta, adicionando/removendo tecnologias que possui domínio, conseguindo editá-las conforme avança em seus estudos ou, ate mesmo, excluir da lista. Também foi criado um sistema de autologin baseado no token do usuário salvo no LocalStorage. Caso o mesmo realize o login na plataforma, porém feche a aplicação sem realizar o logout, quando retornar ao site, será logado automaticamente.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 💻 Tecnologias
+- ReactJS
+- TypeScript
+- Styled Components
+- Axios
+- React-Toastify
+- React-Icons
+- Framer Motion
+- React Hook Form
+- React Router DOM
+- Yup
+- Context API
 
-## Available Scripts
+## ⚙️ Funcionalidades
+- Cadastro na plataforma.
+- Login na plataforma.
+- Autologin na plataforma baseado no token salvo no LocalStorage.
+- Dashboard exclusiva para o usuário.
+- Adicionar/remover tecnologias que possui domínio.
+- Excluir tecnologia da lista.
+- Editar nível de conhecimento da tecnologia.
 
-In the project directory, you can run:
 
-### `yarn start`
+## 🎨 Preview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- <a href="https://kenzie-hub-matheusfelipetp.vercel.app/">Link do projeto</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Captura de tela de 2022-10-13 09-20-23](https://user-images.githubusercontent.com/102761014/195594612-ef99dd1b-53af-41d1-b65a-92bcc4061a95.png)
 
-### `yarn test`
+![Captura de tela de 2022-10-13 09-20-29](https://user-images.githubusercontent.com/102761014/195594663-9eb11b57-983e-40d9-b5cc-4300e2111a1c.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Captura de tela de 2022-10-13 09-20-58](https://user-images.githubusercontent.com/102761014/195594689-e8289123-feff-4370-83ca-5baddc0e7e64.png)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📱 Redes Sociais
+- [Linkedin](https://www.linkedin.com/in/matheusfelipetp/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Instagram](https://www.instagram.com/matheusfelipetp/)
